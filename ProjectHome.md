@@ -1,0 +1,1 @@
+Allows to control financial operations in a group with shared cash.
